@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://www.harrylab.me.uk/"
 languageCode = "en-us"
 title = "Harry Lab"
 theme = "hugo-creative-theme"
@@ -24,7 +24,7 @@ googleAnalytics = ""
 	description = "Your description"
 
 	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+	favicon = "favicon.png"
 
 
 	# Navigation
@@ -33,7 +33,7 @@ googleAnalytics = ""
 
 		[params.navigation.links]
 			about     = "About"
-			services  = "Ideas"
+		#	services  = "Ideas"
 			portfolio = "Projects"
 			contact   = "Contact"
 
@@ -54,28 +54,28 @@ googleAnalytics = ""
 
 
 	# Service section
-	[params.services]
-		headline = "These are my ideas"
+	#[params.services]
+	#	headline = "These are my ideas"
 
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+     #   [[params.services.list]]
+     #      icon = "fa-diamond"
+     #       title = "Sturdy Templates"
+     #       description = "Our templates are updated regularly so they don't break."
 
-        [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+      #  [[params.services.list]]
+	#		icon = "fa-paper-plane"
+	#		title = "Ready to Ship"
+	#		description = "You can use this theme as is, or you can make changes!"
 
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+	#	[[params.services.list]]
+     #       icon = "fa-newspaper-o"
+     #       title = "Up to Date"
+     #       description = "We update dependencies to keep things fresh."
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+    #    [[params.services.list]]
+    #        icon = "fa-heart"
+     #       title = "Made with Love"
+     #       description = "You have to make your websites with love these days!"
 
 
     # Portfolio modals
