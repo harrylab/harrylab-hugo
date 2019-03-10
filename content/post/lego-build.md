@@ -8,3 +8,8 @@ weight = 1
 +++
 
 Lego is awesome. Here are some of my builds
+
+![batguy1](img/portfolio/Lego/batguy1.jpg)
+
+
+This is batguy
