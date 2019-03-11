@@ -9,7 +9,8 @@ weight = 1
 
 Lego is awesome. Here are some of my builds
 
-![batguy1](img/portfolio/Lego/batguy1.jpg)
 
 
-This is batguy
+{{< figure src="/img/portfolio/Lego/batguy1.jpg" caption="figure 1 - lego batguy">}}
+
+
