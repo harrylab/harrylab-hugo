@@ -9,7 +9,9 @@ weight = 1
 
 Lego is awesome. Here are some of my builds
 
+[drago the Dragon](../drago)
 
+[Scorpion](../scorpion)
 
 {{< figure src="/img/portfolio/Lego/batguy1.jpg" caption="figure 1 - lego batguy">}}
 
